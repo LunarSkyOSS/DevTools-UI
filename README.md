@@ -1,6 +1,7 @@
 # DevTools
 
 A multi-tool developer utility built with JavaFX and Groovy, designed for quick data manipulation, encoding, and visualization.
+Repo transferred from Electricane to LunarSkyOSS as new maintainer.
 
 | Default Light Mode | Default Dark Mode |
 | :---: | :---: |
